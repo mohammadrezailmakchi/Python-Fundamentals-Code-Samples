@@ -2,7 +2,7 @@
 
 
 
-[Watch the tutorial here!]([https://www.youtube.com/@ProgrammingMask/#](https://youtu.be/h-gZoCrCPfQ))
+[Watch the tutorial here!]([https://youtu.be/h-gZoCrCPfQ])
 
 📬 Connect with Me
 For updates and more tutorials, subscribe to my YouTube channel: [Programming Mask](https://www.youtube.com/@ProgrammingMask)
