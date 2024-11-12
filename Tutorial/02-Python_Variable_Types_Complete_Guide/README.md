@@ -1,4 +1,4 @@
-## 🐍 Tutorial: Pending For Upload
+## 🐍 Tutorial: Mastering Python Variables: All 14 Types Explained!
 
 
 
